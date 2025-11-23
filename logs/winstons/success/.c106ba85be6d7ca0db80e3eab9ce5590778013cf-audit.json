@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Bank-Project set up\\Newserver\\logs\\winstons\\success\\.c106ba85be6d7ca0db80e3eab9ce5590778013cf-audit.json",
+    "files": [
+        {
+            "date": 1749014605365,
+            "name": "C:\\Bank-Project set up\\Newserver\\logs\\winstons\\success\\UM-04-06-2025-11-success.log",
+            "hash": "d5bed06e0f5b4c045fc94f6f776263ab6fe7a2da186e43dbd4b9f8d2b430383e"
+        },
+        {
+            "date": 1749019210475,
+            "name": "C:\\Bank-Project set up\\Newserver\\logs\\winstons\\success\\UM-04-06-2025-12-success.log",
+            "hash": "0d9107f1b5f38b18aa87970b8e9bb0675f3dedb7be39ba4e4b17598e344a4a89"
+        }
+    ],
+    "hashType": "sha256"
+}
